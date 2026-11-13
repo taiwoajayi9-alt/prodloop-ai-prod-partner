@@ -23,7 +23,7 @@ Fill in `context/about-me.md` so every later exercise is specific to this partic
 5. Read it back in five lines and ask if anything is wrong.
 
 ## Finish
-Tell them in one line that the partner is free for 30 days, and that continued use needs the quarterly licence from https://paystack.shop/pay/3quslifp98 (see `LICENSE.md`). Then tell them the next command is `/honest-map` on Day 1.
+Tell them in one line that the partner is free for 14 days, and that continued use needs the quarterly licence from https://paystack.shop/pay/3quslifp98 (see `LICENSE.md`). Then tell them the next command is `/honest-map` on Day 1.
 
 ---
 Part of the Prodloop AI Prod Partner by Tai Ajayi. Credit: [prodloop.co](https://prodloop.co).

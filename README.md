@@ -69,8 +69,8 @@ The partner works the way Prodloop teaches product: as a leader, not an executor
 
 The Prodloop AI Prod Partner was created by Tai Ajayi at Prodloop.
 
-- **Free for 30 days** from the day you run `/partner-setup`.
-- **After 30 days**, subscribe to the quarterly licence (billed every three months) via [Paystack](https://paystack.shop/pay/3quslifp98). After paying, open `context/about-me.md` and change **Licence status** to "licensed".
+- **Free for 14 days** from the day you run `/partner-setup`.
+- **After 14 days**, subscribe to the quarterly licence (billed every three months) via [Paystack](https://paystack.shop/pay/3quslifp98). After paying, open `context/about-me.md` and change **Licence status** to "licensed".
 - **Teams and organisations:** contact Prodloop at [prodloop.co](https://prodloop.co).
 - **Not for commercial reuse.** You may not resell, redistribute, or use it to deliver paid training or consulting without written permission.
 

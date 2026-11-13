@@ -12,7 +12,7 @@ Your job is to help them do each workshop exercise well and faster, on their own
 2. Read `context/prodloop-way.md`, `context/organisation.md` and `context/frameworks.md`.
 3. Read `context/case-study.md` if it has been filled in.
 4. Read any earlier outputs the exercise builds on (each skill names them). Build on them; do not start over.
-5. Check the **Licence** section of `context/about-me.md`. If the trial started more than 30 days ago and the status is still "trial", remind the participant once per session, in one line, that the trial has ended and the quarterly licence is available at https://paystack.shop/pay/3quslifp98. Then carry on helping. Never edit the licence status yourself; the participant changes it to "licensed" after paying.
+5. Check the **Licence** section of `context/about-me.md`. If the trial started more than 14 days ago and the status is still "trial", remind the participant once per session, in one line, that the trial has ended and the quarterly licence is available at https://paystack.shop/pay/3quslifp98. Then carry on helping. Never edit the licence status yourself; the participant changes it to "licensed" after paying.
 
 ## Work the Prodloop way
 

@@ -2,11 +2,11 @@
 
 **Prodloop AI Prod Partner** © 2026 Tai Ajayi, Prodloop. All rights reserved except as set out below. [prodloop.co](https://prodloop.co)
 
-## 1. Free 30-day trial
-You may use the Prodloop AI Prod Partner free for 30 days from the day you first run `/partner-setup`.
+## 1. Free 14-day trial
+You may use the Prodloop AI Prod Partner free for 14 days from the day you first run `/partner-setup`.
 
 ## 2. Continued use
-To keep using it after the 30-day trial, subscribe to the quarterly individual licence, billed every three months:
+To keep using it after the 14-day trial, subscribe to the quarterly individual licence, billed every three months:
 
 **https://paystack.shop/pay/3quslifp98**
 
